@@ -2,7 +2,7 @@
   <div class="container">
     <h2>Welcome to LTIMindtree</h2>
     <h1>Portal of Registration Form </h1>
-    <p>Please fill in this form to create an account.</p>
+    <p style="color:red;">Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
