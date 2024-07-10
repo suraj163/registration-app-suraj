@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>Welcome to LTIMindtree</h2>
+    <h2 style="color:Blue;">Welcome to LTIMindtree</h2>
     <h1>Portal of Registration Form </h1>
     <p style="color:red;">Please fill in this form to create an account.</p>
     <hr>
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You </h1>
-   <h1> Once the registration is complete, please share your feedback</h1>
+   <h1 style="color:Green;"> Thank You </h1>
+   <h1 style="color:Blue;"> Once the registration is complete, please share your feedback</h1>
   
 </form>
