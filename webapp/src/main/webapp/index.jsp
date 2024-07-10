@@ -33,6 +33,6 @@
   </div>
 
    <h1 style="color:Green;"> Thank You </h1>
-   <h1 style="color:Blue;"> Once the registration is complete, please share your feedback</h1>
+   <h1 style="color:Blue; text-align:center;"> Once the registration is complete, please share your feedback</h1>
   
 </form>
